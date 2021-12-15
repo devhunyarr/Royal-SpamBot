@@ -352,7 +352,7 @@ async def start_yukki():
         session_name = "startup"
         cdk = TelegramClient(session_name, a, b)
         try:
-            await cdk.start()II_RoyalSociety_II
+            await cdk.start()
         except Exception as e:
             pass   
         
