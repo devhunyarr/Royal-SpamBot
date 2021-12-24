@@ -49,5 +49,5 @@
      
 
 ##✧✧ᴄʀᴇᴅɪᴛs✧✧
-𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 :[MR DEV](https://t.me/DEV_CHAT_ROOM)
-𝐎𝐖𝐍𝐄𝐑 :- [𝐃𝟑𝐬𝐭𝐫𝐨𝐲𝐞𝐫 𝐊𝐢𝐧𝐠](https://t.me/iTZ_DEV_XD)
+𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 :[𝐃𝐄𝐕 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓](https://t.me/DEV_CHAT_ROOM)
+𝐎𝐖𝐍𝐄𝐑 :- [𝗠𝚁•𝐃𝙴v](https://t.me/iTZ_DEV_XD)
